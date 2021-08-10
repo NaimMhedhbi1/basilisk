@@ -1,11 +1,6 @@
 /uusoc/scratch/res/nlp/haibo/semantic-tagging/semantics/experiment/ProMED-data/seeds/
+ANIMAL
 BODYPART
 DISSYM
 FIXED_LOCATION
-HUMAN
-MISC
-ANIMAL
-ORGANIZATION
-PLANT
-TEMPORAL_REFERENCE
 TRANSIENT_LOCATION

@@ -1,14 +1,34 @@
-According to that garrison , the mass kidnapping took place on 30 December in San Luis de la Reina .
-The source added that the terrorists forced the individuals , who were taken to an unknown location , out of their residences , presumably to incorporate them against their will into clandestine groups .
-Meanwhile , three subversives were killed and seven others were wounded during clashes yesterday in usulutan and Morazan departments .
-The atonal battalion reported that one extremist was killed and five others were wounded during a clash yesterday afternoon near La Esperanza farm , Santa Elena jurisdiction , usulutan department .
-It was also reported that a soldier was wounded and taken to the military hospital in this capital .
-The same military unit reported that there was another clash that resulted in one dead terrorist and the seizure of various kinds of war materiel near San Rafael farm in the same town .
-In the country 's eastern region , military detachment No.4 reported that a terrorist was killed and two others were wounded during a clash in La ranera stream , San Carlos , Morazan department .
-An M-16 rifle , cartridge clips , and ammunition were seized there .
-Meanwhile , the 3D Infantry Brigade reported that Ponce battalion units found the decomposed body of a subversive in La Finca Hill , San Miguel .
-An M-16 rifle , five grenades , and material for the production of explosives were found in the same place .
-The brigade , which is headquartered in San Miguel , added that the seizure was made yesterday morning .
-National Guard units guarding the Las Canas bridge , which is on the northern trunk highway in apopa , this morning repelled a terrorist attack that resulted in no casualties .
-The armed clash involved mortar and rifle fire and lasted 30 minutes .
-Members of that security group are combing the area to determine the final outcome of the fighting .
+ The operating team could not make proper assessment of completion of draining based on the 
+available indications. The operating team assumed that the draining has been completed, but in reality 
+the water was not fully drained out. 
+ As a result, shot coke and hot water suddenly gushed out during the un-heading operation and spilled 
+over at switch deck platform at 20M elevation and at ground floor adjacent to the lift, which resulted in 
+superficial burn injuries to two persons at switch deck and approx. 65% burn injuries to two persons at 
+ground floor. 
+ Although the hooter was operated during coke drum un-heading to alert the manpower working in other 
+activities of the unit, the areas was not physically barricaded. 
+ The contract manpower workings in the unit (but not involved in jobs in coke drum area) were not 
+properly sensitized about the critical operational activities in the unit and the significance of safety 
+sirens and hooters. 
+ The spillage could not be contained at the switch deck platform at 20M elevation due to inadequate 
+barriers and got spilled over to the ground floor
+RECOMMENDATIONS
+ Area barricading of the coke drum area at ground floor level with proper warning sign board is to be 
+ensured during every un-heading activity in Delayed Coker Unit. 
+ The coke drum area at ground floor level should be covered under CCTV surveillance. 
+ The containment of coke spillage during un-heading is to be ensured by providing necessary 
+removable type metal barriers around the chute so that any coke and hot water spillage is directed 
+towards the coke pit. 
+ A provision of Pressure Indication (PT) is to be made along with Temperature Indication (TI) in coke 
+drum feed line after coke drum feed isolation valve which may assist in proper assessment of 
+completion of water draining. Provided for information purpose only. This information should be evaluated to determine if it is applicable in your 
+operations, to avoid recurrence of such incidents.
+ The standard operating procedure (SOP) for coke drum un-heading system is also to incorporate OHS 
+risks like burn injuries due to steam & hot water splash, spillage of loose coke, collapse of coke bed. 
+ It is recommended to monitor the Asphaltene content during change of Coker feed blend and to do 
+necessary adjustments in operational parameters (higher coke drum pressure, higher recycle ratio and 
+lower heater coil outlet temperature to reduce the chances of shot coke formation along with coke 
+fines). Excessive shot coke formation along with coke fines is not desirable as it leads to channel 
+blockage & clogging of coke drum inlet distributor which hinders the free draining of hot water. 
+ As a long term measure, it is recommended to replace the semi-automatic/ manual un-heading system 
+with fully automated un-heading system having slide valve design and fixed chute arrangement. 
